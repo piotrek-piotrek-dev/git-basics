@@ -1,1 +1,3 @@
-second file, just to play around with diff tool
+second file, just to [and removing this word]y around with diff tool
+so just adding this lin
+this is in cwd, not yet in stagede
